@@ -34,7 +34,7 @@
 .menu ul li:last-child {
     margin-right: 0;
 }
-
+/* this is navbar */
 .menu a {
     position: relative;
 }
